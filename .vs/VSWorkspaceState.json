@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PaymentServices",
+    "\\PaymentServices.DataAccess",
+    "\\PaymentServices.Infrastructure",
+    "\\PaymentServices.Infrastructure\\Response",
+    "\\PaymentServices.Infrastructure\\StaticData"
+  ],
+  "SelectedNode": "\\PaymentServices.Infrastructure\\Response\\ResponseBuilder.cs",
+  "PreviewInSolutionExplorer": false
+}
